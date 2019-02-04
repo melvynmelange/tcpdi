@@ -1,6 +1,7 @@
 {
   "name": "melvynmelange/tcpdi",
-  "version": "1.0.2",
+  "version": "1.0.3",
+  "minimum-stability": "dev",
   "homepage": "https://github.com/melvynmelange/tcpdi",
   "description": "PDF importer for TCPDF based on FPDI (supports optimized PDF 1.5+)",
   "type": "library",
