@@ -1,0 +1,22 @@
+{
+  "name": "melvynmelange/tcpdi",
+  "version": "1.0.2",
+  "homepage": "https://github.com/melvynmelange/tcpdi",
+  "description": "PDF importer for TCPDF based on FPDI (supports optimized PDF 1.5+)",
+  "type": "library",
+  "keywords": ["pdf", "fpdi", "tcpdf", "tcpdi"],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Duy Nguyen"
+    }
+  ],
+  "autoload": {
+    "classmap": [
+      "tcpdi.php",
+      "fpdf_tpl.php",
+      "tcpdi_parser.php"
+      "tcpdf_filter.php"
+    ]
+  }
+}
